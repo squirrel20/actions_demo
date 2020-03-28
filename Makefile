@@ -1,5 +1,5 @@
 all:
-	g++ -o main man.cc
+	g++ -o main main.cc
 
 check:
 	./main
